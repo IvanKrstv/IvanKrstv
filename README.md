@@ -3,12 +3,13 @@
 
 - 🌱 I'm currently learning software development at Technical University of Varna, SoftUni and alone.
 
-I have experience with
- <img alt="html5" src="[https://img.shields.io/pypi/pyversions/Python?style=flat]" />
-<!--
-**IvanKrstv/IvanKrstv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>I have some experience with</h3>
+<p>
+ <img alt="python" src="[https://img.shields.io/badge/Python-dodgerblue?style=flat&logo=python&logoColor=yellow]" />
+ <img alt="c++" src="[https://img.shields.io/badge/C%2B%2B-mediumslateblue?style=flat&logo=cplusplus&logoColor=royalblue]" />
+</p>
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
