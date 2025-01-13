@@ -1,5 +1,10 @@
 ## Hi there 👋
+![](https://komarev.com/ghpvc/?username=IvanKrstv&color=green)
 
+- 🌱 I'm currently learning software development at Technical University of Varna, SoftUni and alone.
+
+I have experience with
+ <img alt="html5" src="[https://img.shields.io/pypi/pyversions/Python?style=flat]" />
 <!--
 **IvanKrstv/IvanKrstv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
