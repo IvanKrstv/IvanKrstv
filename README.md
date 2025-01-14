@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Ivan Krastev from Bulgaria
 ![](https://komarev.com/ghpvc/?username=IvanKrstv&color=green)
 
+## About me:
 - 🏫 I'm currently studying AI at the Technical University of Varna.
 - 🌱 I'm also learning software development at SoftUni and on my own.
 - 😊 I'm open to learning new things and working on interesting projects.
