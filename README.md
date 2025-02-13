@@ -2,6 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=IvanKrstv&color=green)
 
 ## About me:
+<img align="right" width="300" height="200" src="https://github.com/IvanKrstv/IvanKrstv/blob/main/python_and_man-removebg-preview.png"> 
+
 - 🏫 I'm currently studying AI at the Technical University of Varna.
 - 🌱 I'm also learning software development at SoftUni and on my own.
 - 😊 I'm open to learning new things and working on interesting projects.
