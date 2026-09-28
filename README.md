@@ -7,4 +7,4 @@
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,cpp)]()
 
 ## Tech stack:
-[![My Skills](https://skillicons.dev/icons?i=django,fastapi,postgres,git,github,postman,sklearn)]()
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi,postgres,git,github,docker,aws,sklearn)]()
